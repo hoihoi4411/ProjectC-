@@ -1,0 +1,17 @@
+c:\users\dungpc\documents\visual studio 2015\Projects\ProjectCsharp\bin\Debug\ProjectCsharp.exe
+c:\users\dungpc\documents\visual studio 2015\Projects\ProjectCsharp\bin\Debug\ProjectCsharp.pdb
+c:\users\dungpc\documents\visual studio 2015\Projects\ProjectCsharp\obj\Debug\ProjectCsharp.Properties.Resources.resources
+c:\users\dungpc\documents\visual studio 2015\Projects\ProjectCsharp\obj\Debug\ProjectCsharp.csproj.GenerateResource.Cache
+c:\users\dungpc\documents\visual studio 2015\Projects\ProjectCsharp\obj\Debug\ProjectCsharp.exe
+c:\users\dungpc\documents\visual studio 2015\Projects\ProjectCsharp\obj\Debug\ProjectCsharp.pdb
+c:\Users\DungPC\Documents\Visual Studio 2015\Projects\ProjectCsharp\bin\Debug\ProjectCsharp.exe.config
+C:\Users\DungPC\documents\visual studio 2015\Projects\ProjectCsharp\obj\Debug\ProjectCsharp.csprojResolveAssemblyReference.cache
+C:\Users\DungPC\documents\visual studio 2015\Projects\ProjectCsharp\obj\Debug\ProjectCsharp.LoginForm.resources
+C:\Users\DungPC\documents\visual studio 2015\Projects\ProjectCsharp\bin\Debug\MahApps.Metro.dll
+C:\Users\DungPC\documents\visual studio 2015\Projects\ProjectCsharp\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\DungPC\documents\visual studio 2015\Projects\ProjectCsharp\bin\Debug\MahApps.Metro.pdb
+C:\Users\DungPC\documents\visual studio 2015\Projects\ProjectCsharp\bin\Debug\MahApps.Metro.xml
+C:\Users\DungPC\documents\visual studio 2015\Projects\ProjectCsharp\obj\Debug\ProjectCsharp.IndexForm.resources
+C:\Users\DungPC\documents\visual studio 2015\Projects\ProjectCsharp\obj\Debug\ProjectCsharp.StaffForm.resources
+C:\Users\DungPC\documents\visual studio 2015\Projects\ProjectCsharp\obj\Debug\ProjectCsharp.Dialog.resources
+C:\Users\DungPC\documents\visual studio 2015\Projects\ProjectCsharp\obj\Debug\ProjectCsharp.Report.resources
